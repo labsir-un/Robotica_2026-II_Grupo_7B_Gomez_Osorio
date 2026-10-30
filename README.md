@@ -60,7 +60,7 @@ Aquí se documentan los laboratorios, avances, resultados y la presentación de 
 - **Carrera:** Ingeniería Mecatrónica
 - **Correo institucional:** sosoriogu@unal.edu.co
 - **Usuario de GitHub:** [SamuelOsorio2023](https://github.com/SamuelOsorio2023)
-- **Rol en el equipo:** Ej. Integración ROS 2, documentación, simulación
+- **Rol en el equipo:** Modelado, operario, simulación. 
 - **Intereses:** Robótica móvil, visión artificial, automatización
 - **Descripción breve:**  
   Soy estudiante de ingeniería mecatrónica en la Universidad Nacional de Colombia, actualmente estoy cursando mi octava matricula, me gusta especialmente todo lo relacionado con la programación, electrónica, control y automatizaciones. Actualmente resido en Colombia, me apasiona la resolución de problemas mediante primeros principios. 
@@ -72,11 +72,11 @@ Aquí se documentan los laboratorios, avances, resultados y la presentación de 
   <img src="./assets/integrantes/integrante2.jpg" alt="Foto integrante 2" style="border-radius: 50%; width: 180px;"><br>
 </div>
 
-- **Nombre completo:** Nombre Apellido
+- **Nombre completo:** Santiago Gómez Camargo
 - **Carrera:** Ingeniería Mecatrónica
-- **Correo institucional:** nombre@unal.edu.co
-- **Usuario de GitHub:** [usuariogithub](https://github.com/usuariogithub)
-- **Rol en el equipo:** Ej. Modelado, programación, control
+- **Correo institucional:** sgomezcam@unal.edu.co
+- **Usuario de GitHub:** [SantiagoBlitzkrieg](https://github.com/SantiagoBlitzkrieg)
+- **Rol en el equipo:** Programación, simulación, operario.
 - **Intereses:** Manipulación, ROS 2, control de robots
 - **Descripción breve:**  
   Estudiante de ingeniería orientado al área de robótica, automatización y sistemas inteligentes, con interés en la integración de diseño mecánico, control electrónico y programación para la resolución práctica de problemas tecnológicos. Me caracterizo por ser una persona proactiva, analítica y con sólida capacidad para el trabajo en equipo, el aprendizaje autodidacta y la resolución creativa de problemas..
