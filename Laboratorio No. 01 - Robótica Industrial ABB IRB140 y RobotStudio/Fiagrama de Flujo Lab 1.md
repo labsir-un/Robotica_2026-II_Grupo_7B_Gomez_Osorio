@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     subgraph MAIN ["1. Bucle Principal (PROC main)"]
         Start([Inicio / PROC main]) --> H1[[Llamar Homming]]
@@ -74,3 +75,4 @@ flowchart TD
         F3 --> F4[Apagar testigo 3]
         F4 --> EndF([Fin])
     end
+```
