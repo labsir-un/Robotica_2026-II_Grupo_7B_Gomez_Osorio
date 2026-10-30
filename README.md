@@ -11,9 +11,8 @@
 
 <h2>Profesores: <br>Pedro Fabián Cárdenas Herrera <br> Manuel Felipe Carranza Montenegro</h2>
 
-<h4>Nombre Integrante 1<br>
-    Nombre Integrante 2<br>
-    Nombre Integrante 3</h4>
+<h4>Samuel David Osorio<br>
+    Santiago Gómez Camargo</h4>
 
 <p>
   <img alt="Ubuntu 24.04 LTS" src="https://img.shields.io/badge/Ubuntu-24.04%20LTS-E95420?logo=ubuntu&logoColor=white">
@@ -52,19 +51,19 @@ Aquí se documentan los laboratorios, avances, resultados y la presentación de 
 
 ## Integrantes del equipo
 
-### Integrante 1
+### Integrante 1 
 <div align="center">
   <img src="./assets/integrantes/integrante1.jpg" alt="Foto integrante 1" style="border-radius: 50%; width: 180px;"><br>
 </div>
 
-- **Nombre completo:** Nombre Apellido
+- **Nombre completo:** Samuel David Osorio
 - **Carrera:** Ingeniería Mecatrónica
-- **Correo institucional:** nombre@unal.edu.co
-- **Usuario de GitHub:** [usuariogithub](https://github.com/usuariogithub)
+- **Correo institucional:** sosoriogu@unal.edu.co
+- **Usuario de GitHub:** [SamuelOsorio2023](https://github.com/SamuelOsorio2023)
 - **Rol en el equipo:** Ej. Integración ROS 2, documentación, simulación
 - **Intereses:** Robótica móvil, visión artificial, automatización
 - **Descripción breve:**  
-  Escribe aquí una breve presentación personal y académica del integrante.
+  Soy estudiante de ingeniería mecatrónica en la Universidad Nacional de Colombia, actualmente estoy cursando mi octava matricula, me gusta especialmente todo lo relacionado con la programación, electrónica, control y automatizaciones. Actualmente resido en Colombia, me apasiona la resolución de problemas mediante primeros principios. 
 
 ---
 
@@ -80,21 +79,6 @@ Aquí se documentan los laboratorios, avances, resultados y la presentación de 
 - **Rol en el equipo:** Ej. Modelado, programación, control
 - **Intereses:** Manipulación, ROS 2, control de robots
 - **Descripción breve:**  
-  Escribe aquí una breve presentación personal y académica del integrante.
+  Estudiante de ingeniería orientado al área de robótica, automatización y sistemas inteligentes, con interés en la integración de diseño mecánico, control electrónico y programación para la resolución práctica de problemas tecnológicos. Me caracterizo por ser una persona proactiva, analítica y con sólida capacidad para el trabajo en equipo, el aprendizaje autodidacta y la resolución creativa de problemas..
 
 ---
-
-### Integrante 3
-<div align="center">
-  <img src="./assets/integrantes/integrante3.jpg" alt="Foto integrante 3" style="border-radius: 50%; width: 180px;"><br>
-</div>
-
-- **Nombre completo:** Nombre Apellido
-- **Carrera:** Ingeniería Mecatrónica
-- **Correo institucional:** nombre@unal.edu.co
-- **Usuario de GitHub:** [usuariogithub](https://github.com/usuariogithub)
-- **Rol en el equipo:** Ej. Documentación, pruebas, simulación
-- **Intereses:** Robótica industrial, sistemas autónomos, IA
-- **Descripción breve:**  
-  Escribe aquí una breve presentación personal y académica del integrante.
-
