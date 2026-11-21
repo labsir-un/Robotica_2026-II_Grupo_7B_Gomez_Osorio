@@ -21,7 +21,7 @@ Esta configuración repliega completamente los eslabones principales (L y U) hac
 Esta configuración ubica las articulaciones en valores cercanos al origen mecánico de cero pulsos, dejando el brazo erguido y desplegado en ángulo recto frente al área de trabajo. Al mantener el efector final elevado y despejado de la estructura propia del robot, proporciona la mejor postura inicial para comenzar cualquier rutina, garantizando alcance inmediato y libre de colisiones hacia la mesa de trazado.
 ![Second Home Pos en Teach Pendant](img/home2.jpeg)
 
-**¿Cuál es mejor?
+**¿Cuál es mejor?**
 
 Para transporte, embalaje y almacenamiento la mejor posición es Home 1, ya que su postura compacta minimiza el espacio requerido y su bajo momento de inercia protege la estructura y los reductores durante el traslado o reposo prolongado.
 Por otro lado para la ejecución de trayectorias la mejor posición es Home 2,ya que es la postura óptima para iniciar y finalizar el trabajo sobre la superficie, reduciendo los tiempos de desplazamiento y facilitando la maniobrabilidad hacia los puntos de la trayectoria.
